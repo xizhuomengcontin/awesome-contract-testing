@@ -40,6 +40,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 ## Node.js
 - [PACT Node.js](https://github.com/pact-foundation/pact-node) - Node version of Pact, a Contract Testing Framework.
 - [Specmatic Node.js](https://www.npmjs.com/package/specmatic) - Node wrapper of Specmatic.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Node CLI that records the real traffic an AI agent exchanged with its model provider (request bodies, tool calls and raw responses) into a local trace, then replays that recording offline with nothing reachable, or forks it from a checkpoint onto a different model, so the interaction the two sides actually agreed on is derived from what they really sent rather than declared up front.
 
 ## JavaScript
 - [PACT JavaScript](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
